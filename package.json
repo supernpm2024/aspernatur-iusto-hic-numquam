@@ -1,18 +1,86 @@
 {
-  "name": "@utilcode/simple-template-advanced",
+  "name": "@supernpm2024/aspernatur-iusto-hic-numquam",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "description": "A no dependency javascript runtime key-value cache store for small chunks of arbitrary data (strings, objects, numbers)",
+  "main": "./dist/umd/index.js",
+  "module": "./dist/esm/index.js",
+  "types": "./dist/esm/index.d.ts",
+  "files": [
+    "dist/"
+  ],
+  "author": "ellentea",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+  "keywords": [
+    "js cache",
+    "javascript cache",
+    "runtime cache",
+    "node cache",
+    "cache",
+    "memory cache",
+    "js hash",
+    "key store",
+    "lru",
+    "timeout",
+    "mru"
+  ],
+  "devDependencies": {
+    "@types/jest": "~28.1.0",
+    "@types/node": "^16.0.0",
+    "@typescript-eslint/eslint-plugin": "~5.30.0",
+    "@typescript-eslint/parser": "~5.30.0",
+    "babel-loader": "~8.2.0",
+    "copy-webpack-plugin": "11.0.0",
+    "eslint": "~8.20.0",
+    "eslint-config-airbnb": "~19.0.0",
+    "eslint-config-prettier": "~8.5.0",
+    "eslint-config-typescript": "~3.0.0",
+    "eslint-formatter-pretty": "~4.1.0",
+    "eslint-import-resolver-typescript": "~3.2.0",
+    "eslint-loader": "~4.0.0",
+    "eslint-plugin-import": "~2.26.0",
+    "eslint-plugin-prettier": "~4.2.0",
+    "eslint-plugin-typescript": "~0.14.0",
+    "jest": "~28.1.0",
+    "prettier": "~2.7.0",
+    "ts-node": "~10.9.0",
+    "typescript": "~4.6.2",
+    "typescript-eslint-parser": "~22.0.0",
+    "webpack": "~5.73.0",
+    "webpack-cli": "~4.10.0"
   },
   "dependencies": {
-    "axios": "^1.6.8"
-  }
+    "@supernpm2024/at-quidem-repellat-iusto": "^1.0.0",
+    "@supernpm2024/commodi-odit-eius-nostrum": "^1.0.0",
+    "@supernpm2024/cupiditate-sed-aliquam-quae": "^1.0.0",
+    "@supernpm2024/dignissimos-accusamus-libero-cumque": "^1.0.0",
+    "@supernpm2024/dolor-distinctio-nisi-cupiditate": "^1.0.0",
+    "@supernpm2024/fugiat-natus-quia-vitae": "^1.0.0",
+    "@supernpm2024/in-illo-perferendis-temporibus": "^1.0.0",
+    "@supernpm2024/labore-repudiandae-dolorem-in": "^1.0.0",
+    "@supernpm2024/laboriosam-ipsam-assumenda-maiores": "^1.0.0",
+    "@supernpm2024/laudantium-delectus-ipsam-sit": "^1.0.0",
+    "@supernpm2024/legendary-broccoli": "^1.0.0",
+    "@supernpm2024/maiores-magni-harum-dolores": "^1.0.0",
+    "@supernpm2024/modi-consequuntur-mollitia-nesciunt": "^1.0.0",
+    "@supernpm2024/modi-quod-recusandae-placeat": "^1.0.0",
+    "@supernpm2024/molestiae-vitae-labore-voluptatibus": "^1.0.0",
+    "@supernpm2024/officia-eum-pariatur-temporibus": "^1.0.0",
+    "@supernpm2024/praesentium-ipsa-odio-ullam": "^1.0.0",
+    "@supernpm2024/quis-ab-laboriosam-veniam": "^1.0.0",
+    "@supernpm2024/similique-occaecati-laborum-saepe": "^1.0.0",
+    "@supernpm2024/sunt-blanditiis-totam-eos": "^1.0.0",
+    "@supernpm2024/tenetur-tempore-ex-illo": "^1.0.0",
+    "@supernpm2024/unde-delectus-corporis-commodi": "^1.0.0",
+    "@supernpm2024/voluptate-eos-animi-nobis": "^1.0.0",
+    "@supernpm2024/voluptatem-eius-officia-voluptatem": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supernpm2024/aspernatur-iusto-hic-numquam.git"
+  },
+  "homepage": "https://github.com/supernpm2024/aspernatur-iusto-hic-numquam/#readme",
+  "bugs": {
+    "url": "https://github.com/supernpm2024/aspernatur-iusto-hic-numquam/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
